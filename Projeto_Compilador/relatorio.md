@@ -3,9 +3,13 @@
 
 ### Projeto de Processamento de Linguagens — 2025
 
+### Grupo 19
+#### Diogo Miguel Torres Moreira de Oliveira Pinto a100551 
+#### Mariana Miguel Leão Barros Oliveira PInto a100756
 ---
 
 ## Introdução
+
 
 O objetivo deste projeto foi o desenvolvimento de um *compilador para a linguagem Pascal Standard*, capaz de analisar, interpretar e traduzir código fonte Pascal para um formato intermediário e, por fim, gerar código executável para uma máquina virtual (VM) disponibilizada no contexto da UC.
 
